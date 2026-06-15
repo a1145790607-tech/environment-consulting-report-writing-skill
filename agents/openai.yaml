@@ -1,0 +1,7 @@
+interface:
+  display_name: "环境咨询报告写作"
+  short_description: "环境咨询研究论证报告写作与审校"
+  default_prompt: "Use $environment-consulting-report-writing-skill to revise an environmental consulting report section with clear evidence, bounded conclusions, and actionable measures."
+
+policy:
+  allow_implicit_invocation: true
